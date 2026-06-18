@@ -1,0 +1,56 @@
+{
+  "site_name": "国产高分电影",
+  "movie_count": 2000,
+  "categories": [
+    {
+      "slug": "drama",
+      "label": "剧情精选",
+      "count": 221
+    },
+    {
+      "slug": "comedy",
+      "label": "喜剧片场",
+      "count": 215
+    },
+    {
+      "slug": "action",
+      "label": "动作冒险",
+      "count": 221
+    },
+    {
+      "slug": "thriller",
+      "label": "悬疑惊悚",
+      "count": 221
+    },
+    {
+      "slug": "romance",
+      "label": "爱情片库",
+      "count": 187
+    },
+    {
+      "slug": "horror",
+      "label": "恐怖专区",
+      "count": 187
+    },
+    {
+      "slug": "sci-fi",
+      "label": "科幻奇幻",
+      "count": 187
+    },
+    {
+      "slug": "animation",
+      "label": "动画纪录",
+      "count": 187
+    },
+    {
+      "slug": "period",
+      "label": "古装历史",
+      "count": 187
+    },
+    {
+      "slug": "misc",
+      "label": "综合热播",
+      "count": 187
+    }
+  ]
+}
